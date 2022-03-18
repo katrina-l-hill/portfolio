@@ -37,8 +37,7 @@
       {
         "title": "BusMall",
         "startDate": "2022",
-        "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました。 
-        Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
+        "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました。Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -114,7 +113,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "Florida Department of Environmental Protection, Jacksonville, FL",
         "title": "Environmental Compliance Specialist 2",
@@ -129,7 +128,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
         "title": "Storage Tanks Compliance Inspector",
@@ -144,7 +143,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "Florida Department of Environmental Protection, Jacksonville, FL",
         "title": "Environmental Compliance Specialist 1",

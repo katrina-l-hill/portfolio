@@ -89,9 +89,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Snohomish School District 201, Snohomish, WA",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "11.2021 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -108,9 +108,54 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Program Manager",
+        "years": "06.2017 - 04.2021",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 2",
+        "years": "10.2015 - 06.2017",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
+        "title": "Storage Tanks Compliance Inspector",
+        "years": "09.2014 - 09.2015",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 1",
+        "years": "11.2011 - 11.2013",
         "mainTech": [
           "Angular 7/8"
         ],

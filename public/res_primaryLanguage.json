@@ -13,10 +13,7 @@
       {
         "title": "PetsRUs",
         "startDate": "2022",
-        "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters.
-        Added local storage and a constructor to pull out user input for pet selection into a shopping cart.
-        Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.
-        ",
+        "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart. Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -40,10 +37,7 @@
       {
         "title": "BusMall",
         "startDate": "2022",
-        "description": "Generated random images of products for user selection of favorites.
-        Utilized <canvas> tags and charts to display user input data visually.
-        Implemented local storage into the application to ensure data persists across browser refreshes and resets.
-        Used Javascript, CSS, HTML, and Chart.js to create the project.",
+        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -63,9 +57,7 @@
       {
         "title": "Cookie Stand",
         "startDate": "2022",
-        "description": "Utilized VSCode to create a functioning website that displays sales, location, and order information for the project.
-        Incorporated various image images and styles for presenting the problem domain.
-        Applied DOM manipulation, constructors, and object-oriented programming to create the project.",
+        "description": "Utilized VSCode to create a functioning website that displays sales, location, and order information for the project. Incorporated various image images and styles for presenting the problem domain. Applied DOM manipulation, constructors, and object-oriented programming to create the project.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -121,7 +113,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "Florida Department of Environmental Protection, Jacksonville, FL",
         "title": "Environmental Compliance Specialist 2",
@@ -136,7 +128,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
         "title": "Storage Tanks Compliance Inspector",
@@ -151,7 +143,7 @@
           "JavaScript",
           "DHTMLX Gantt"
         ]
-      }
+      },
       {
         "company": "Florida Department of Environmental Protection, Jacksonville, FL",
         "title": "Environmental Compliance Specialist 1",

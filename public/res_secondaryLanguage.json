@@ -1,12 +1,17 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Katrina Hill. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Japanese",
+      "description": "👋 カトリーナヒルです。 私は、市および州レベルでの環境コンプライアンス、執行、および管理のバックグラウンドを持つソフトウェア開発者です。 私は5年の経験を持つITネットワーク管理者として訓練を受けた海軍のベテランです。 私は、コンピューターとソフトウェアの使用に戻り、海軍が私に与えた経験に基づいて構築したかったので、キャリアをソフトウェア開発にシフトすることにしました。 最終的には、環境とソフトウェア開発の2つのキャリアを組み合わせて、特に環境正義のプロジェクトにしたいと思います。 環境分野での私の管理職は、プロジェクトと人材の卓越した管理スキルを備えた、非常に熟練した、ソリューションに焦点を当てた専門家になりました。 
+      Katorīnahirudesu. Watashi wa, ichi oyobi shū reberu de no kankyō konpuraiansu, shikkō, oyobi kanri no bakkuguraundo o motsu sofutō~ea kaihatsu-shadesu. Watashi wa 5-nen no keiken o motsu IT nettowāku kanrisha to shite kunren o uketa kaigun no beterandesu. Watashi wa, konpyūtā to sofutō~ea no shiyō ni modori, kaigun ga watashi ni ataeta keiken nimotozuite kōchiku shitakattanode, kyaria o sofutō~ea kaihatsu ni shifuto suru koto ni shimashita. Saishūtekini wa, kankyō to sofutō~ea kaihatsu no 2tsu no kyaria o kumiawasete, tokuni kankyōseigi no purojekuto ni shitai to omoimasu. Kankyō bun'ya de no watashi no kanrishoku wa, purojekuto to jinzai no takuetsu shita kanri sukiru o sonaeta, hijō ni jukuren shita, soryūshon ni shōten o ateta senmonka ni narimashita.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "私について 
+        Watashi ni tsuite",
+        "projects": "プロジェクト 
+        Purojekuto",
+        "skills": "スキル 
+        Sukiru",
+        "experience": "経験 
+        Keiken"
       }
     },
     "projects": [

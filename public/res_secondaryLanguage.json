@@ -1,81 +1,77 @@
 {
     "basic_info": {
-      "description_header": "Japanese",
-      "description": "👋 カトリーナヒルです。 私は、市および州レベルでの環境コンプライアンス、執行、および管理のバックグラウンドを持つソフトウェア開発者です。 私は5年の経験を持つITネットワーク管理者として訓練を受けた海軍のベテランです。 私は、コンピューターとソフトウェアの使用に戻り、海軍が私に与えた経験に基づいて構築したかったので、キャリアをソフトウェア開発にシフトすることにしました。 最終的には、環境とソフトウェア開発の2つのキャリアを組み合わせて、特に環境正義のプロジェクトにしたいと思います。 環境分野での私の管理職は、プロジェクトと人材の卓越した管理スキルを備えた、非常に熟練した、ソリューションに焦点を当てた専門家になりました。 
-      Katorīnahirudesu. Watashi wa, ichi oyobi shū reberu de no kankyō konpuraiansu, shikkō, oyobi kanri no bakkuguraundo o motsu sofutō~ea kaihatsu-shadesu. Watashi wa 5-nen no keiken o motsu IT nettowāku kanrisha to shite kunren o uketa kaigun no beterandesu. Watashi wa, konpyūtā to sofutō~ea no shiyō ni modori, kaigun ga watashi ni ataeta keiken nimotozuite kōchiku shitakattanode, kyaria o sofutō~ea kaihatsu ni shifuto suru koto ni shimashita. Saishūtekini wa, kankyō to sofutō~ea kaihatsu no 2tsu no kyaria o kumiawasete, tokuni kankyōseigi no purojekuto ni shitai to omoimasu. Kankyō bun'ya de no watashi no kanrishoku wa, purojekuto to jinzai no takuetsu shita kanri sukiru o sonaeta, hijō ni jukuren shita, soryūshon ni shōten o ateta senmonka ni narimashita.",
+      "description_header": "こんにちは Kon'nichiwa",
+      "description": "👋 カトリーナヒルです。 私は、市および州レベルでの環境コンプライアンス、執行、および管理のバックグラウンドを持つソフトウェア開発者です。 私は5年の経験を持つITネットワーク管理者として訓練を受けた海軍のベテランです。 私は、コンピューターとソフトウェアの使用に戻り、海軍が私に与えた経験に基づいて構築したかったので、キャリアをソフトウェア開発にシフトすることにしました。 最終的には、環境とソフトウェア開発の2つのキャリアを組み合わせて、特に環境正義のプロジェクトにしたいと思います。 環境分野での私の管理職は、プロジェクトと人材の卓越した管理スキルを備えた、非常に熟練した、ソリューションに焦点を当てた専門家になりました。      Katorīnahirudesu. Watashi wa, ichi oyobi shū reberu de no kankyō konpuraiansu, shikkō, oyobi kanri no bakkuguraundo o motsu sofutō~ea kaihatsu-shadesu. Watashi wa 5-nen no keiken o motsu IT nettowāku kanrisha to shite kunren o uketa kaigun no beterandesu. Watashi wa, konpyūtā to sofutō~ea no shiyō ni modori, kaigun ga watashi ni ataeta keiken nimotozuite kōchiku shitakattanode, kyaria o sofutō~ea kaihatsu ni shifuto suru koto ni shimashita. Saishūtekini wa, kankyō to sofutō~ea kaihatsu no 2tsu no kyaria o kumiawasete, tokuni kankyōseigi no purojekuto ni shitai to omoimasu. Kankyō bun'ya de no watashi no kanrishoku wa, purojekuto to jinzai no takuetsu shita kanri sukiru o sonaeta, hijō ni jukuren shita, soryūshon ni shōten o ateta senmonka ni narimashita.",
       "section_name": {
-        "about": "私について 
-        Watashi ni tsuite",
-        "projects": "プロジェクト 
-        Purojekuto",
-        "skills": "スキル 
-        Sukiru",
-        "experience": "経験 
-        Keiken"
+        "about": "私について Watashi ni tsuite",
+        "projects": "プロジェクト  Purojekuto",
+        "skills": "スキル  Sukiru",
+        "experience": "経験 Keiken"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "PetsRUs",
+        "startDate": "2022",
+        "description": "3つのコホートと協力して、ペットシェルターの過密の問題を解決するように設計されたペットの譲渡のWebサイトを作成しました。ペットを選択するためのユーザー入力をショッピングカートに引き出すためのローカルストレージとコンストラクターを追加しました。 Javascript、CSS、およびHTMLを使用して、5ページのプロジェクトを作成およびスタイル設定しました。        3Ttsu no kohōto to kyōryoku shite, pettosherutā no kamitsu no mondai o kaiketsu suru yō ni sekkei sa reta petto no jōto no u~ebu saito o sakusei shimashita. Petto o sentaku suru tame no yūzā nyūryoku o shoppingukāto ni hikidasu tame no rōkarusutorēji to konsutorakutā o tsuika shimashita. Javascript, CSS, oyobi HTML o shiyō shite, 5 pēji no purojekuto o sakusei oyobi sutairu settei shimashita.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/PetsRus",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました。 
+        Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/katrina-l-hill/busmall",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Cookie Stand",
+        "startDate": "2022",
+        "description": "VSCodeを利用して、プロジェクトの販売、場所、注文情報を表示する機能するWebサイトを作成しました。 問題の領域を提示するためのさまざまな画像画像とスタイルを組み込んだ。 プロジェクトを作成するために適用されたDOM操作、コンストラクター、およびオブジェクト指向プログラミング。        VSCode o riyō shite, purojekuto no hanbai, basho, chūmon jōhō o hyōji suru kinō suru u~ebu saito o sakusei shimashita. Mondai no ryōiki o teiji suru tame no samazamana gazō gazō to sutairu o kumikonda. Purojekuto o sakusei suru tame ni tekiyō sa reta damu sōsa, konsutorakutā, oyobi obujekuto shikō puroguramingu.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/katrina-l-hill/cookie-stand",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
             "class": "devicon-csharp-plain",
@@ -86,9 +82,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Snohomish School District 201, Snohomish, WA",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "11.2021 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -99,22 +95,70 @@
           "Bootstrap",
           "MDBootstrap",
           "EF Core",
+          ".NET Core",
+          "SignalR",
           "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Program Manager",
+        "years": "06.2017 - 04.2021",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
-          "Swagger",
+          "Django",
+          "PHP",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 2",
+        "years": "10.2015 - 06.2017",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
+        "title": "Storage Tanks Compliance Inspector",
+        "years": "09.2014 - 09.2015",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 1",
+        "years": "11.2011 - 11.2013",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+
         ]
       }
     ]

@@ -13,12 +13,12 @@
       {
         "title": "Gallery of Horns",
         "startDate": "2022",
-        "description": "Created application that displayed images and information on various horned animals. Used React to create app components to render components. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
+        "description": "Created React application that displayed images and details on various horned animals. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "https://github.com/PetsRus",
+        "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
           {
             "class": "",

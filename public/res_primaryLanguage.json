@@ -11,6 +11,30 @@
     },
     "projects": [
       {
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Created application that displayed images and information on various horned animals. Used React to create app components to render components. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/PetsRus",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
         "title": "PetsRUs",
         "startDate": "2022",
         "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart. Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.",
@@ -51,30 +75,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Cookie Stand",
-        "startDate": "2022",
-        "description": "Utilized VSCode to create a functioning website that displays sales, location, and order information for the project. Incorporated various image images and styles for presenting the problem domain. Applied DOM manipulation, constructors, and object-oriented programming to create the project.",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com/katrina-l-hill/cookie-stand",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
           }
         ]
       }

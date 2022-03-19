@@ -2,7 +2,7 @@
     "basic_info": {
       "name": "Katrina Hill",
       "titles": [ "Software Developer" ],
-      "social": ["linkedin.com/in/katrina-l-hill"
+      "social": ["linkedin.com/in/katrina-l-hill",
         {
           "name": "GitHub",
           "url": "github.com/katrina-l-hill",

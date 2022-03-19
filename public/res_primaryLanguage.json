@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello👋",
+      "description": "I'm Katrina Hill. I’m a Software Developer with a background in environmental compliance, enforcement, and management at the city and state level. I’m a Navy Veteran trained as an IT Network Administrator with 5 years of experience. I decided to shift careers into software development because I wanted to go back to working with computers and software and then to build on the experience the Navy gave me. Ultimately, I’d like to combine these two careers of environmental and software development into a project, specifically in Environmental Justice. My management position in the environmental field has made me a highly accomplished, solutions-focused professional with exceptional management skills in project and human resources.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,36 +11,60 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Created React application that displayed images and details on various horned animals. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adventure/chameleon.jpg",
+          "images/portfolio/adventure/basically-narwhals-a-unicorn.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "PetsRUs",
+        "startDate": "2022",
+        "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart. Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/animal-shelter/carol.jpg",
+          "images/portfolio/animal-shelter/newman.jpg"
+        ],
+        "url": "https://github.com/PetsRus",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
+        "images": [
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -53,37 +77,13 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Snohomish School District 201, Snohomish, WA",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "11.2021 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -100,9 +100,54 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Program Manager",
+        "years": "06.2017 - 04.2021",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 2",
+        "years": "10.2015 - 06.2017",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
+        "title": "Storage Tanks Compliance Inspector",
+        "years": "09.2014 - 09.2015",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
+        "title": "Environmental Compliance Specialist 1",
+        "years": "11.2011 - 11.2013",
         "mainTech": [
           "Angular 7/8"
         ],

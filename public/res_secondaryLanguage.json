@@ -11,6 +11,30 @@
     },
     "projects": [
       {
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Created application that displayed images and information on various horned animals. Used React to create app components to render components. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/PetsRus",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          },
+          {
+            "class": "",
+            "name": ""
+          }
+        ]
+      },
+      {
         "title": "PetsRUs",
         "startDate": "2022",
         "description": "3つのコホートと協力して、ペットシェルターの過密の問題を解決するように設計されたペットの譲渡のWebサイトを作成しました。ペットを選択するためのユーザー入力をショッピングカートに引き出すためのローカルストレージとコンストラクターを追加しました。 Javascript、CSS、およびHTMLを使用して、5ページのプロジェクトを作成およびスタイル設定しました。        3Ttsu no kohōto to kyōryoku shite, pettosherutā no kamitsu no mondai o kaiketsu suru yō ni sekkei sa reta petto no jōto no u~ebu saito o sakusei shimashita. Petto o sentaku suru tame no yūzā nyūryoku o shoppingukāto ni hikidasu tame no rōkarusutorēji to konsutorakutā o tsuika shimashita. Javascript, CSS, oyobi HTML o shiyō shite, 5 pēji no purojekuto o sakusei oyobi sutairu settei shimashita.",
@@ -51,30 +75,6 @@
           {
             "class": "",
             "name": ""
-          }
-        ]
-      },
-      {
-        "title": "Cookie Stand",
-        "startDate": "2022",
-        "description": "VSCodeを利用して、プロジェクトの販売、場所、注文情報を表示する機能するWebサイトを作成しました。 問題の領域を提示するためのさまざまな画像画像とスタイルを組み込んだ。 プロジェクトを作成するために適用されたDOM操作、コンストラクター、およびオブジェクト指向プログラミング。        VSCode o riyō shite, purojekuto no hanbai, basho, chūmon jōhō o hyōji suru kinō suru u~ebu saito o sakusei shimashita. Mondai no ryōiki o teiji suru tame no samazamana gazō gazō to sutairu o kumikonda. Purojekuto o sakusei suru tame ni tekiyō sa reta damu sōsa, konsutorakutā, oyobi obujekuto shikō puroguramingu.",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com/katrina-l-hill/cookie-stand",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       }

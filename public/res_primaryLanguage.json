@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "Created React application that displayed images and details on various horned animals. Used JSON library to incorporate applicable animal images for selection. Included sort method to allow users to view animals with a specified number of horns.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adventure/chameleon.jpg",
+          "images/portfolio/adventure/basically-narwhals-a-unicorn.jpg"
         ],
         "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2022",
         "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart. Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/carol.jpg",
+          "images/portfolio/animal-shelter/newman.jpg"
         ],
         "url": "https://github.com/PetsRus",
         "technologies": [
@@ -63,8 +63,8 @@
         "startDate": "2022",
         "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

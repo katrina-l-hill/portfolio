@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "さまざまな角のある動物の画像と詳細を表示するReactアプリケーションを作成しました。 JSONライブラリを使用して、選択に適用可能な動物の画像を組み込みました。 ユーザーが指定された数の角を持つ動物を表示できるようにするソートメソッドが含まれています。Samazamana tsuno no aru dōbutsu no gazō to shōsai o hyōji suru React apurikēshon o sakusei shimashita. Jeison raiburari o shiyō shite, sentaku ni tekiyō kanōna dōbutsu no gazō o kumikomimashita. Yūzā ga shitei sa reta kazu no tsuno o motsu dōbutsu o hyōji dekiru yō ni suru sōtomesoddo ga fukuma rete imasu.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adventure/chameleon.jpg",
+          "images/portfolio/adventure/basically-narwhals-a-unicorn.jpg"
         ],
         "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2022",
         "description": "3つのコホートと協力して、ペットシェルターの過密の問題を解決するように設計されたペットの譲渡のWebサイトを作成しました。ペットを選択するためのユーザー入力をショッピングカートに引き出すためのローカルストレージとコンストラクターを追加しました。 Javascript、CSS、およびHTMLを使用して、5ページのプロジェクトを作成およびスタイル設定しました。        3Ttsu no kohōto to kyōryoku shite, pettosherutā no kamitsu no mondai o kaiketsu suru yō ni sekkei sa reta petto no jōto no u~ebu saito o sakusei shimashita. Petto o sentaku suru tame no yūzā nyūryoku o shoppingukāto ni hikidasu tame no rōkarusutorēji to konsutorakutā o tsuika shimashita. Javascript, CSS, oyobi HTML o shiyō shite, 5 pēji no purojekuto o sakusei oyobi sutairu settei shimashita.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/carol.jpg",
+          "images/portfolio/animal-shelter/newman.jpg"
         ],
         "url": "https://github.com/PetsRus",
         "technologies": [
@@ -63,8 +63,8 @@
         "startDate": "2022",
         "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました。Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
         ],
         "url": "https://github.com/katrina-l-hill/busmall",
         "technologies": [

@@ -21,16 +21,20 @@
         "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
           }
         ]
       },
@@ -45,16 +49,16 @@
         "url": "https://github.com/PetsRus",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -69,12 +73,16 @@
         "url": "https://github.com/katrina-l-hill/busmall",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-original",
+            "name": "CSS3"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-html5-original",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -85,18 +93,18 @@
         "title": "Front-End Developer",
         "years": "11.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -104,14 +112,14 @@
         "title": "Environmental Compliance Program Manager",
         "years": "06.2017 - 04.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -119,14 +127,14 @@
         "title": "Environmental Compliance Specialist 2",
         "years": "10.2015 - 06.2017",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -134,14 +142,14 @@
         "title": "Storage Tanks Compliance Inspector",
         "years": "09.2014 - 09.2015",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -149,14 +157,14 @@
         "title": "Environmental Compliance Specialist 1",
         "years": "11.2011 - 11.2013",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
 
         ]
       }

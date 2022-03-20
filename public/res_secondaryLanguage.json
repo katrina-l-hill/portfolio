@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Gallery of Horns",
-        "startDate": "2022",
+        "title": "ホーンのギャラリー Hōn no gyararī",
+        "startDate": "2022年 2022-Nen",
         "description": "さまざまな角のある動物の画像と詳細を表示するReactアプリケーションを作成しました。 JSONライブラリを使用して、選択に適用可能な動物の画像を組み込みました。 ユーザーが指定された数の角を持つ動物を表示できるようにするソートメソッドが含まれています。Samazamana tsuno no aru dōbutsu no gazō to shōsai o hyōji suru React apurikēshon o sakusei shimashita. Jeison raiburari o shiyō shite, sentaku ni tekiyō kanōna dōbutsu no gazō o kumikomimashita. Yūzā ga shitei sa reta kazu no tsuno o motsu dōbutsu o hyōji dekiru yō ni suru sōtomesoddo ga fukuma rete imasu.",
         "images": [
           "images/portfolio/adventure/chameleon.jpg",
@@ -39,8 +39,32 @@
         ]
       },
       {
-        "title": "PetsRUs",
-        "startDate": "2022",
+        "title": "バスモール Basumōru",
+        "startDate": "2022年 2022-Nen",
+        "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
+        "images": [
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
+        ],
+        "url": "https://github.com/katrina-l-hill/busmall",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "ペットは私たちです Petto wa watashitachidesu",
+        "startDate": "2022年 2022-Nen",
         "description": "3つのコホートと協力して、ペットシェルターの過密の問題を解決するように設計されたペットの譲渡のWebサイトを作成しました。ペットを選択するためのユーザー入力をショッピングカートに引き出すためのローカルストレージとコンストラクターを追加しました。 Javascript、CSS、およびHTMLを使用して、5ページのプロジェクトを作成およびスタイル設定しました。        3Ttsu no kohōto to kyōryoku shite, pettosherutā no kamitsu no mondai o kaiketsu suru yō ni sekkei sa reta petto no jōto no u~ebu saito o sakusei shimashita. Petto o sentaku suru tame no yūzā nyūryoku o shoppingukāto ni hikidasu tame no rōkarusutorēji to konsutorakutā o tsuika shimashita. Javascript, CSS, oyobi HTML o shiyō shite, 5 pēji no purojekuto o sakusei oyobi sutairu settei shimashita.",
         "images": [
           "images/portfolio/animal-shelter/carol.jpg",
@@ -61,37 +85,32 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "BusMall",
-        "startDate": "2022",
-        "description": "ユーザーがお気に入りを選択するための製品のランダム画像を生成しました。 <canvas>タグとチャートを利用して、ユーザー入力データを視覚的に表示しました。 ローカルストレージをアプリケーションに実装して、ブラウザの更新とリセットの間もデータが持続するようにしました。 Javascript、CSS、HTML、およびChart.jsを使用してプロジェクトを作成しました。Yūzā ga okiniiri o sentaku suru tame no seihin no randamu gazō o seisei shimashita. < Canvas > tagu to chāto o riyō shite, yūzā nyūryoku dēta o shikaku-teki ni hyōji shimashita. Rōkarusutorēji o apurikēshon ni jissō shite, burauza no kōshin to risetto no ma mo dēta ga jizoku suru yō ni shimashita. Javascript, CSS, HTML, oyobi chāto. Js o shiyō shite purojekuto o sakusei shimashita.",
-        "images": [
-          "images/portfolio/photography/banana.jpg",
-          "images/portfolio/photography/scissors.jpg"
-        ],
-        "url": "https://github.com/katrina-l-hill/busmall",
-        "technologies": [
-          {
-            "class": "devicon-css3-original",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-html5-original",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
       }
     ],
     "experience": [
       {
-        "company": "Snohomish School District 201, Snohomish, WA",
-        "title": "Front-End Developer",
-        "years": "11.2021 - present",
+        "company": "コードフェロー Kōdoferō",
+        "title": "学生ソフトウェア開発者 Gakusei sofutō~ea kaihatsu-sha",
+        "years": "2022年2月 2022-Nen 2 tsuki - 現在 Genzai",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "CSS3",
+          "HTML5",
+          "React.js",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "スノホミッシュ学区201、ワシントン州スノホミッシュ Sunohomisshu gakku 201, Washinton-shū sunohomisshu",
+        "title": "学生ソフトウェア開発者 Gakusei sofutō~ea kaihatsu-sha",
+        "years": "2021年11月 2021-Nen 11 tsuki - 現在 Genzai",
         "mainTech": [
           ""
         ],
@@ -108,9 +127,9 @@
         ]
       },
       {
-        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
-        "title": "Environmental Compliance Program Manager",
-        "years": "06.2017 - 04.2021",
+        "company": "フロリダ州環境保護局 Furorida-shū kankyō hogo-kyoku, フロリダ州ジャクソンビル Furorida-shū Jakuson Biru",
+        "title": "環境コンプライアンスプログラムマネージャー Kankyō konpuraiansupuroguramumanējā",
+        "years": "2017年6月 2017-Nen 6 tsuki - 2017年4月 2017-Nen 4 tsuki",
         "mainTech": [
           ""
         ],
@@ -123,9 +142,9 @@
         ]
       },
       {
-        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
-        "title": "Environmental Compliance Specialist 2",
-        "years": "10.2015 - 06.2017",
+        "company": "フロリダ州環境保護局 Furorida-shū kankyō hogo-kyoku, フロリダ州ジャクソンビル Furorida-shū Jakuson Biru",
+        "title": "環境コンプライアンススペシャリスト2 Kankyō konpuraiansusupesharisuto 2",
+        "years": "2015年10月 2015-Nen 10 tsuki - 2015年6月 2015-Nen 6 tsuki",
         "mainTech": [
           ""
         ],
@@ -138,9 +157,9 @@
         ]
       },
       {
-        "company": "City of Jacksonville - Environmental Quality Division, Jacksonville, FL",
-        "title": "Storage Tanks Compliance Inspector",
-        "years": "09.2014 - 09.2015",
+        "company": "ジャクソンビル市-フロリダ州ジャクソンビル環境品質課 Jakuson Biru-shi - Furorida-shū Jakuson Biru kankyō hinshitsu-ka",
+        "title": "貯蔵タンクコンプライアンス検査官 Chozō tankukonpuraiansu kensakan",
+        "years": "2014年9月 2014-Nen 9 tsuki - 2015年9月 2015-Nen 9 tsuki",
         "mainTech": [
           ""
         ],
@@ -153,9 +172,9 @@
         ]
       },
       {
-        "company": "Florida Department of Environmental Protection, Jacksonville, FL",
-        "title": "Environmental Compliance Specialist 1",
-        "years": "11.2011 - 11.2013",
+        "company": "フロリダ州環境保護局、フロリダ州ジャクソンビル Furorida-shū kankyō hogo-kyoku, Furorida-shū Jakuson Biru",
+        "title": "環境コンプライアンススペシャリスト1 Kankyō konpuraiansusupesharisuto 1",
+        "years": "2011年11月 2011-Nen 11 tsuki - 2013年11月 2011-Nen 11 tsuki",
         "mainTech": [
           ""
         ],

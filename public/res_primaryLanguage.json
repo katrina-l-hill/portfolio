@@ -49,11 +49,11 @@
         "url": "https://github.com/katrina-l-hill/busmall",
         "technologies": [
           {
-            "class": "devicon-css3-original",
+            "class": "devicon-css3-plain",
             "name": "CSS3"
           },
           {
-            "class": "devicon-html5-original",
+            "class": "devicon-html5-plain",
             "name": "HTML5"
           },
           {

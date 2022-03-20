@@ -14,23 +14,19 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML5",
           "class": "devicon-html5-plain",
           "level": "Intermediate"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS3",
+          "class": "devicon-html5-plain",
           "level": "Intermediate"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "Intermediate"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "Beginner"
         },
         {
           "name": "React",

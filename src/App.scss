@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 18px;
 }
 
 .title-styles {
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #D3FFB2;
+	background-color: #E1FFC6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,13 +121,13 @@ header h1 {
 }
 
 #about {
-	background: #E1FFC6;
+	background: #E1FCDA;
 	overflow: hidden;
 }
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/15px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -184,8 +185,8 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 300px;
-	max-height: 270px;
+	max-width: 290px;
+	max-height: 240px;
 }
 
 .polaroid span {
@@ -210,7 +211,7 @@ header h1 {
 }
 
 .wave {
-	font-size: 160%;
+	font-size: 130%;
 }
 
 .font-trebuchet {
@@ -354,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #E1FFC6;
+	background: #E1FCDA;
 	padding-bottom: 5%;
 }
 
@@ -415,7 +416,7 @@ header h1 {
 }
 
 footer {
-	background: #3f3f3f;
+	background: #a8a8a8;
 	min-height: 60px;
 	width: 100%;
 	overflow: hidden;

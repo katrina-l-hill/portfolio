@@ -39,6 +39,30 @@
         ]
       },
       {
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
+        "images": [
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
+        ],
+        "url": "https://github.com/katrina-l-hill/busmall",
+        "technologies": [
+          {
+            "class": "devicon-css3-original",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-original",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "PetsRUs",
         "startDate": "2022",
         "description": "Collaborated with three cohorts to create a pet adoption website designed to solve the problem of overcrowding in pet shelters. Added local storage and a constructor to pull out user input for pet selection into a shopping cart. Used Javascript, CSS, HTML, and JavaScript to create and style the five page project.",
@@ -54,30 +78,6 @@
           },
           {
             "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "BusMall",
-        "startDate": "2022",
-        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
-        "images": [
-          "images/portfolio/photography/banana.jpg",
-          "images/portfolio/photography/scissors.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-css3-original",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-html5-original",
             "name": "HTML5"
           },
           {

@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 18px;
 }
 
 .title-styles {
@@ -38,7 +39,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #E1FFC6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -120,13 +121,13 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #E1FCDA;
 	overflow: hidden;
 }
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/15px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -184,7 +185,8 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 290px;
+	max-height: 240px;
 }
 
 .polaroid span {
@@ -209,7 +211,7 @@ header h1 {
 }
 
 .wave {
-	font-size: 160%;
+	font-size: 130%;
 }
 
 .font-trebuchet {
@@ -231,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #EAF5E4;
 }
 
 .experience-icon {
@@ -353,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #E1FCDA;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +391,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #3f3f3f;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -399,7 +401,7 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/15px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -414,8 +416,8 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
-	min-height: 100px;
+	background: #888888;
+	min-height: 60px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;

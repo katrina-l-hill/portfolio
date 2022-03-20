@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello👋",
-      "description": "I'm Katrina Hill. I’m a Software Developer with a background in environmental compliance, enforcement, and management at the city and state level. I’m a Navy Veteran trained as an IT Network Administrator with 5 years of experience. I decided to shift careers into software development because I wanted to go back to working with computers and software and then to build on the experience the Navy gave me. Ultimately, I’d like to combine these two careers of environmental and software development into a project, specifically in Environmental Justice. My management position in the environmental field has made me a highly accomplished, solutions-focused professional with exceptional management skills in project and human resources.",
+      "description": "I'm Katrina Hill. I'm a Software Developer with a background in environmental compliance, enforcement, and management at the city and state level. I’m a Navy Veteran trained as an IT Network Administrator with 5 years of experience. I decided to shift careers into software development because I wanted to go back to working with computers and software and then to build on the experience the Navy gave me. Ultimately, I’d like to combine these two careers of environmental and software development into a project, specifically in Environmental Justice. My management position in the environmental field has made me a highly accomplished, solutions-focused professional with exceptional management skills in project and human resources.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,16 +21,44 @@
         "url": "https://github.com/katrina-l-hill/gallery-of-horns",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
+        "images": [
+          "images/portfolio/photography/banana.jpg",
+          "images/portfolio/photography/scissors.jpg"
+        ],
+        "url": "https://github.com/katrina-l-hill/busmall",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -45,32 +73,12 @@
         "url": "https://github.com/PetsRus",
         "technologies": [
           {
-            "class": "",
-            "name": ""
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "BusMall",
-        "startDate": "2022",
-        "description": "Generated random images of products for user selection of favorites. Utilized <canvas> tags and charts to display user input data visually. Implemented local storage into the application to ensure data persists across browser refreshes and resets. Used Javascript, CSS, HTML, and Chart.js to create the project.",
-        "images": [
-          "images/portfolio/photography/banana.jpg",
-          "images/portfolio/photography/scissors.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-javascript-plain",
@@ -81,22 +89,41 @@
     ],
     "experience": [
       {
-        "company": "Snohomish School District 201, Snohomish, WA",
-        "title": "Front-End Developer",
-        "years": "11.2021 - present",
+        "company": "Code Fellows",
+        "title": "Student Software Developer",
+        "years": "02.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS3",
+          "HTML5",
+          "React.js",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "company": "Snohomish School District 201, Snohomish, WA",
+        "title": "Substitute Teacher",
+        "years": "11.2021 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -104,14 +131,14 @@
         "title": "Environmental Compliance Program Manager",
         "years": "06.2017 - 04.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -119,14 +146,14 @@
         "title": "Environmental Compliance Specialist 2",
         "years": "10.2015 - 06.2017",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -134,14 +161,14 @@
         "title": "Storage Tanks Compliance Inspector",
         "years": "09.2014 - 09.2015",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       },
       {
@@ -149,14 +176,14 @@
         "title": "Environmental Compliance Specialist 1",
         "years": "11.2011 - 11.2013",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "",
+          "",
+          "",
+          "",
+          ""
         ]
       }
     ]

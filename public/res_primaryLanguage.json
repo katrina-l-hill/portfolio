@@ -89,6 +89,25 @@
     ],
     "experience": [
       {
+        "company": "Code Fellows",
+        "title": "Student Software Developer",
+        "years": "02.2022 - present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
         "company": "Snohomish School District 201, Snohomish, WA",
         "title": "Substitute Teacher",
         "years": "11.2021 - present",

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import SecondLanaguge from './res_secondaryLanguage.json';
 
 class Footer extends Component {
   render() {
@@ -52,7 +51,6 @@ class Footer extends Component {
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
-                <Link to = '/public' target='_res_secondaryLanguage.json'></Link>
               </div>
             </div>
             <div className="col">

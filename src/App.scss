@@ -184,7 +184,8 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	max-width: 300px;
+	max-height: 270px;
 }
 
 .polaroid span {
@@ -389,7 +390,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #3f3f3f;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -399,7 +400,7 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/15px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -414,8 +415,8 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
-	min-height: 100px;
+	background: #3f3f3f;
+	min-height: 60px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;

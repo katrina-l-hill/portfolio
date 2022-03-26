@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "GitHub",
-          "url": "github.com/katrina-l-hill",
+          "url": "https://github.com/katrina-l-hill",
           "class": "fab fa-github"
         },
         {
           "name": "LinkedIn",
-          "url": "linkedin.com/in/katrina-l-hill",
+          "url": "https://www.linkedin.com/in/katrina-l-hill/",
           "class": "fab fa-linkedin"
         }
       ],
